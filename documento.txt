@@ -3,3 +3,8 @@ añado información dentro de documento.txt
 Nuevos cambios
 
 Cambio desde rama main
+# área de trabajo de otra persona
+
+# área de trabajo de una tercera persona
+
+# cambios desde la rama dev
